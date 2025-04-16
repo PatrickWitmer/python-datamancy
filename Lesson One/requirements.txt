@@ -1,0 +1,21 @@
+# Data manipulation and analysis
+numpy
+pandas
+scipy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Jupyter notebooks
+jupyter
+notebook
+
+# Machine Learning
+scikit-learn
+
+# Optional but useful utilities
+python-dotenv    # for environment variables
+requests         # for API requests
+black           # code formatter
+pylint          # code linter
